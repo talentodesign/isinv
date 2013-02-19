@@ -35,7 +35,7 @@ wp_funcoes();
             	</ul>
                 <center>&gt;&gt; <a href="<?php servidor(); ?>calendario/">ver todos</a></center>
             </div>
-            <a href=href="https://www.agorainvest.com.br/bemvindo/abraconta/cadastro.asp?cliente=M&Cd_Assessor=427" target="_blank"><img src="<?php servidor(); ?>images/bg_abracont.png" alt="" id="abracont"></a>
+            <a href="https://www.agorainvest.com.br/bemvindo/abraconta/cadastro.asp?cliente=M&Cd_Assessor=427" target="_blank"><img src="<?php servidor(); ?>images/bg_abracont.png" alt="" id="abracont"></a>
             <div id="noticias">
             	<ul>
             <?php  
