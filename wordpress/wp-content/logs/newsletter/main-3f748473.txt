@@ -1,0 +1,41 @@
+08-01-2013 18:31:57 - ERROR - Can't DROP 'name'; check that column/key exists
+08-01-2013 18:31:57 - ERROR - Table 'isinv.wp_newsletter' doesn't exist
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'message'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'message_text'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'subject'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'type'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'created'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'status'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'total'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'last_id'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'sent'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'send_on'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'track'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'editor'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'sex'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'query'
+08-01-2013 18:31:57 - ERROR - Duplicate column name 'preferences'
+08-01-2013 18:31:57 - ERROR - Can't DROP 'name'; check that column/key exists
+08-01-2013 18:31:57 - ERROR - Table 'isinv.wp_newsletter' doesn't exist
+08-01-2013 18:40:08 - ERROR - Blocked by transient newsletter_main_engine set 149 seconds ago
+08-01-2013 18:41:09 - ERROR - Blocked by transient newsletter_main_engine set 210 seconds ago
+08-01-2013 18:41:22 - ERROR - Blocked by transient newsletter_main_engine set 223 seconds ago
+08-01-2013 19:22:33 - ERROR - Blocked by transient newsletter_main_engine set 221 seconds ago
+09-01-2013 12:49:04 - ERROR - Blocked by transient newsletter_main_engine set 137 seconds ago
+09-01-2013 13:43:19 - ERROR - Blocked by transient newsletter_main_engine set 154 seconds ago
+09-01-2013 14:22:45 - ERROR - Blocked by transient newsletter_main_engine set 177 seconds ago
+09-01-2013 14:48:34 - ERROR - Blocked by transient newsletter_main_engine set 189 seconds ago
+09-01-2013 17:12:32 - ERROR - Blocked by transient newsletter_main_engine set 12 seconds ago
+12-01-2013 03:03:22 - ERROR - Blocked by transient newsletter_main_engine set 117 seconds ago
+15-01-2013 00:52:53 - ERROR - Blocked by transient newsletter_main_engine set 67 seconds ago
+15-01-2013 17:42:29 - ERROR - Blocked by transient newsletter_main_engine set 16 seconds ago
+23-01-2013 02:48:19 - ERROR - Blocked by transient newsletter_main_engine set 222 seconds ago
+23-01-2013 19:37:50 - ERROR - Blocked by transient newsletter_main_engine set 62 seconds ago
+24-01-2013 12:57:33 - ERROR - Blocked by transient newsletter_main_engine set 94 seconds ago
+24-01-2013 13:13:02 - ERROR - Blocked by transient newsletter_main_engine set 217 seconds ago
+24-01-2013 13:23:19 - ERROR - Blocked by transient newsletter_main_engine set 195 seconds ago
+29-01-2013 14:37:35 - ERROR - Blocked by transient newsletter_main_engine set 24 seconds ago
+29-01-2013 19:32:40 - ERROR - Blocked by transient newsletter_main_engine set 17 seconds ago
+30-01-2013 17:28:08 - ERROR - Blocked by transient newsletter_main_engine set 186 seconds ago
+30-01-2013 17:28:09 - ERROR - Blocked by transient newsletter_main_engine set 187 seconds ago
+04-02-2013 16:18:37 - ERROR - Blocked by transient newsletter_main_engine set 198 seconds ago

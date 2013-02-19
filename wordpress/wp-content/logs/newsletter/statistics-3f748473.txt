@@ -1,0 +1,17 @@
+08-01-2013 18:31:58 - ERROR - Table 'isinv.wp_newsletter_stats' doesn't exist
+08-01-2013 18:31:58 - ERROR - Table 'isinv.wp_newsletter_stats' doesn't exist
+08-01-2013 18:31:58 - ERROR - Table 'isinv.wp_newsletter_stats' doesn't exist
+08-01-2013 18:31:58 - ERROR - Duplicate column name 'user_id'
+08-01-2013 18:31:58 - ERROR - Unknown column 'newsletter_id' in 'wp_newsletter_stats'
+08-01-2013 18:31:58 - ERROR - Unknown column 'newsletter_id' in 'wp_newsletter_stats'
+08-01-2013 18:31:58 - ERROR - Unknown column 'date' in 'wp_newsletter_stats'
+08-01-2013 18:31:58 - ERROR - Duplicate column name 'user_id'
+08-01-2013 18:31:58 - ERROR - Duplicate column name 'email_id'
+08-01-2013 18:31:58 - ERROR - Duplicate column name 'link_id'
+08-01-2013 18:31:58 - ERROR - Duplicate column name 'user_id'
+08-01-2013 18:31:58 - ERROR - Duplicate column name 'created'
+08-01-2013 18:31:58 - ERROR - Duplicate column name 'url'
+08-01-2013 18:31:58 - ERROR - Duplicate column name 'anchor'
+08-01-2013 18:31:58 - ERROR - Duplicate column name 'email_id'
+08-01-2013 18:31:58 - ERROR - Duplicate column name 'token'
+08-01-2013 18:31:58 - ERROR - Duplicate column name 'text'

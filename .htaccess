@@ -1,0 +1,24 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^fale-conosco/?$ fale-conosco.php
+RewriteRule ^aprendizagem/?$ aprendizagem.php
+RewriteRule ^aprendizagem/([a-z0-9-]*)\/?$ aprendizagem.php?pg=$1
+RewriteRule ^analise/?$ analise.php
+RewriteRule ^analise/([a-z0-9-]*)\/?$ analise.php?pg=$1
+RewriteRule ^investimentos/?$ investimentos.php
+RewriteRule ^investimentos/([a-z0-9-]*)\/?$ investimentos.php?pg=$1
+RewriteRule ^quem-somos\/?$ quem-somos.php
+RewriteRule ^quem-somos\/?([a-z0-9-]*)\/?$ quem-somos.php?pg=$1
+RewriteRule ^noticias\/?$ noticias.php
+RewriteRule ^noticias/pg/([0-9-]*)\/?$ noticias.php?pg=$1
+RewriteRule ^noticias/p/([a-z0-9-]*)\/?$ noticias.php?p=$1
+RewriteRule ^calendario\/?$ calendario.php
+RewriteRule ^calendario/pg/([0-9-]*)\/?$ calendario.php?pg=$1
+RewriteRule ^calendario/p/([a-z0-9-]*)\/?$ calendario.php?p=$1
+RewriteRule ^trabalhe-conosco\/?$ trabalhe-conosco.php
+RewriteRule ^educacional\/?$ educacional.php
+RewriteRule ^educacional/pg/([0-9-]*)\/?$ educacional.php?pg=$1
+RewriteRule ^educacional/p/([a-z0-9-]*)\/?$ educacional.php?p=$1
+</IfModule>
